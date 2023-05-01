@@ -1,0 +1,134 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+.imageStyle{
+    height: 200px;
+    width: 100%;
+}
+.mainWrapper{
+    /* border: 1px solid red; */
+    height: 100vh;
+}
+.iconWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.iconStyle{
+    height: 65px;
+    width: 65px;
+    border: 1px solid black;
+    margin-top: -35px;
+}
+.contactWrapper{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.callStyle{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    background-color: rgb(177, 248, 177);
+    padding: 10px;
+    margin-left: 15px ;
+    border: 1px solid rgb(146, 235, 146);
+}
+.QuestionsStyle{
+    background-color: grey;
+    width: 236px;
+    height: 60px;
+    padding: 10px;
+}
+.QuestionLinkStyle{
+    border: 1px solid yellow;
+    background-color: yellow;
+    text-decoration: none;
+    text-size-adjust: 10px ;
+    border-radius: 5px;
+}
+.shareStyle{
+    border: 1px solid black;
+    width: 120px;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+.recommentStyle{
+    border: 1px solid black;
+    width: 120px;
+    border-radius: 10px;
+    text-align: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    text-decoration: none;
+    background-color: yellow;
+    color: black;
+}
+.recommendStyle{
+    display: flex;
+    justify-content: space-between;
+}
+.messageStyle{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    padding: 10px;
+    color: white;
+    background-color: rgb(106, 106, 235);
+}
+.notification{
+    background-color: rgb(190, 189, 189);
+    width: 90%;
+    display: flex;
+}
+.avtar_one{
+    border: 1px solid black;
+    width: 10%;
+    margin: 10px;
+}
+.avtar_two{
+    border: 1px solid black;
+    width: 10%;
+    margin: 10px;
+}
+.avtar_three{
+    border: 1px solid black;
+    width: 10%;
+    margin: 10px;
+}
+.avtar_four{
+    border: 1px solid black;
+    width: 10%;
+    margin: 10px;
+
+}
+.avtar_five{
+    border: 1px solid black;
+    width: 10%;
+    margin: 10px;
+
+}
+.avtar_six{
+    border: 1px solid black;
+    width: 10%;
+    margin: 10px;
+
+}
+.avtarStyle{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.avtar{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
